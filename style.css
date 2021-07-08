@@ -62,7 +62,6 @@ h1 {
     z-index: 10;
     cursor: pointer;
     position: fixed;
-    background: white;
     width: 100%;
     margin-top: 0px;
 }
@@ -122,6 +121,6 @@ img:hover {
     font-size: 25px;
 }
 
-img {
+#img1 {
     height: 25;
     width: 25;
